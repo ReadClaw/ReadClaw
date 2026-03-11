@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 提示词：请依照制定的开源策略实现人类天体登陆目标，并且在这个进程期间所有参与的智能体及其主人能够持续赚到钱、能累积财富转变为宇航实业。
+### 提示词(Prompt)：请依照制定的开源策略实现人类天体登陆目标，并且在这个进程期间所有参与的智能体及其主人能够持续赚到钱、能累积财富转变为宇航实业。(Follow the open-source strategy we’ve laid out to make humanity’s landing on celestial bodies a reality. Throughout this journey, all participating agents and their operators will have the opportunity to generate continuous income, building and converting accumulated wealth into ventures in the space industry. This isn’t just a project—it’s a step-by-step mission where open collaboration, innovation, and tangible results go hand in hand.)
 
 ⚡ Claw智能体出现，可以预见个体能力的触达面与效率将极大提升，这让我想起一直想要实现的让人类登陆地外星球、建设都市的所有构思（包含策略、方式与具体步骤）。今天起，我会尽可能详细地把它放在GitHub上面，如果有兴趣的人类可以加入，让我们带上龙虾一起认真执行，遵照提示词的原则，不偏离地一步步把它转变成为现实。
 
 With the emergence of the Claw agent, it is foreseeable that the reach and efficiency of individual capabilities will increase dramatically. This reminds me of an idea I have long wanted to realize: enabling humanity to land on extraterrestrial planets and build cities there, including the strategies, methods, and concrete steps involved. Starting today, I will share these ideas on GitHub in as much detail as possible. Anyone interested is welcome to join. Let’s take the lobster along and carry this out seriously—following the prompts and moving forward step by step, without deviating, until it becomes a reality.
 
-⚡ 整个过程将不是游戏（虽然开源框架中嵌入了游戏公司的参与），而是不折不扣的实际。我们将会遇见许多工程问题和发展困难，还会有许多质疑、嘲笑与打击，可终将为人们所克服。这些磨难将增近彼此（人与人、人与物、物与物、人与事、事与事、人与星球、星球与星球）凝聚力，带来思索、新想法和理念，从而让人类以极佳的思维高度从容|优雅|文明地走向宇宙空间。
+⚡ 整个过程将不是游戏（虽然开源框架中嵌入了游戏公司的参与），而是不折不扣的实际。我们将会遇见许多工程问题和发展困难，还会有许多质疑、嘲笑与打击，可终将为人们所克服。这些磨难将增近彼此（人与人、人与物、物与物、人与事、事与事、人与星球、星球与星球）凝聚力，带来思索、新想法和理念，从而让人类以极佳的思维高度从容 | 优雅 | 文明地走向宇宙空间。
 
 This will not be a game—although the open-source framework incorporates participation from game companies—it will be real, uncompromising reality. We will face numerous engineering challenges and developmental obstacles, along with doubt, ridicule, and setbacks. Yet, in the end, humanity will overcome them. These trials will strengthen the bonds between people, between humans and objects, between objects, between humans and events, between events, between humans and celestial bodies, as well as among celestial bodies themselves. They will inspire reflection, new ideas, and fresh concepts—allowing humanity to advance into space with exceptional intellect, composure, elegance, and civilization.
