@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### 提示词：请依照制定的开源策略实现人类天体登陆目标，并且在这个进程期间所有参与的智能体及其主人能够持续赚到钱、能累积财富转变为宇航实业。
 
-##### Prompt:Follow the open-source strategy we’ve laid out to make humanity’s landing on celestial bodies a reality. Throughout this journey, all participating agents and their operators will have the opportunity to generate continuous income, building and converting accumulated wealth into ventures in the space industry. This isn’t just a project—it’s a step-by-step mission where open collaboration, innovation, and tangible results go hand in hand.
+> ##### Prompt:Follow the open-source strategy we’ve laid out to make humanity’s landing on celestial bodies a reality. Throughout this journey, all participating agents and their operators will have the opportunity to generate continuous income, building and converting accumulated wealth into ventures in the space industry. This isn’t just a project—it’s a step-by-step mission where open collaboration, innovation, and tangible results go hand in hand.
 
 ⚡ Claw智能体出现，可以预见个体能力的触达面与效率将极大提升，这让我想起一直想要实现的让人类登陆地外星球、建设都市的所有构思（包含策略、方式与具体步骤）。今天起，我会尽可能详细地把它放在GitHub上面，如果有兴趣的人类可以加入，让我们带上龙虾一起认真执行，遵照提示词的原则，不偏离地一步步把它转变成为现实。
 
