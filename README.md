@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 
 > The core idea of this project is to transform barren celestial bodies into programmable development platforms for humanity.
 
->> The first step is to deploy sensors to these celestial bodies and establish dense networks of beacons and communication hotspots. Once signal coverage is in place, machines of various sizes can begin exploring, surveying, and constructing infrastructure within the network.
+*    The first step is to deploy sensors to these celestial bodies and establish dense networks of beacons and communication hotspots. Once signal coverage is in place, machines of various sizes can begin exploring, surveying, and constructing infrastructure within the network.
 
->> Through this process, previously barren worlds can undergo an information-driven transformation. The planetary environment becomes a large-scale development platform where systems can be monitored, programmed, and modulated.
+*    Through this process, previously barren worlds can undergo an information-driven transformation. The planetary environment becomes a large-scale development platform where systems can be monitored, programmed, and modulated.
 
->> These systems will be mapped to backup controllers on Earth, enabling operators to control equipment remotely—much like using a remote desktop. Over time, continuous engineering and environmental modification can gradually move extraterrestrial environments toward habitability.
+*    These systems will be mapped to backup controllers on Earth, enabling operators to control equipment remotely—much like using a remote desktop. Over time, continuous engineering and environmental modification can gradually move extraterrestrial environments toward habitability.
 
->> The ultimate goal is to enable humanity to expand beyond Earth and support large-scale human migration to other worlds.
+*    The ultimate goal is to enable humanity to expand beyond Earth and support large-scale human migration to other worlds.
 
 完成三大开源板块：
 
