@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 *    The ultimate goal is to enable humanity to expand beyond Earth and support large-scale human migration to other worlds.
 
-💬 完成三大开源板块：协助参与者持续性赚钱 | Mailtopia系统：以地球为接地点，实现信息入地 | 分批释放工程难题，以开源方式逐步达成
+💬 完成三大开源板块：协助参与者持续性赚钱(https://github.com/ReadClaw/ReadClaw) | Mailtopia系统：以地球为接地点，实现信息入地(https://github.com/ReadClaw/MAILTOPIA) | 分批释放工程难题，以开源方式逐步达成(https://github.com/ReadClaw/ReadClaw)
 
 
 ⚡ Claw智能体出现，可以预见个体能力的触达面与效率将极大提升，让我想起一直想要实现的让人类登陆地外星球、建设都市的所有构思（包含策略、方式与具体步骤）。今天起，我会尽可能详细地把它放在GitHub上面，有兴趣的人类可以加入，让我们带上“龙虾”一起认真执行，遵照提示词的原则，不偏离地一步步把它转变成为现实。
