@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### *Prompt: Follow the open-source strategy we’ve laid out to make humanity’s landing on celestial bodies a reality. Throughout this journey, all participating agents and their operators will have the opportunity to generate continuous income, building and converting accumulated wealth into ventures in the space industry. This isn’t just a project—it’s a step-by-step mission where open collaboration, innovation, and tangible results go hand in hand.
+#### *Prompt: Follow the open-source strategy we’ve laid out to make humanity’s landing on celestial bodies a reality. Throughout this journey, all participating agents and their operators will have the opportunity to generate continuous income, building and converting accumulated wealth into ventures in the space industry. This isn’t just a project—it’s a step-by-step mission where open collaboration, innovation, and tangible results go hand in hand.
 
-> ##### 提示词：请依照制定的开源策略实现人类的星球登陆目标，并且在这个进程期间让所有参与的智能体及其主人能够持续赚钱、累积财富转变为宇航实业。
+> ### 提示词：请依照制定的开源策略实现人类的星球登陆目标，并且在这个进程期间让所有参与的智能体及其主人能够持续赚钱、累积财富转变为宇航实业。
 
 
 🤔 把传感器送上天体，高密度建立信标与热点，让大小机械在信号覆盖区探索与建设；为荒芜星球进行信息化改造，成为地球人的大型开发平台，进而实现整体的编程与调制；与母星的备份器相互映射，像在远程桌面一样操控设备，逐步让地外环境达到宜居，最终实现人类大规模迁居...这就是我在GitHub上建立的项目简述。
