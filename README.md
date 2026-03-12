@@ -41,11 +41,11 @@ Project Overview 🚀: The core idea of this project is to transform barren cele
 
 > Claw智能体出现，可以预见个体能力的触达面与效率将极大提升，让我想起一直想要实现的让人类登陆地外星球、建设都市的所有构思（包含策略、方式与具体步骤）。今天起，我会尽可能详细地把它放在GitHub上面，有兴趣的人类可以加入，让我们带上“龙虾”一起认真执行，遵照提示词的原则，不偏离地一步步把它转变成为现实。
 
-⚡ This will not be a game—although the open-source framework incorporates participation from game companies—it will be real, uncompromising reality. We will face numerous engineering challenges and developmental obstacles, along with doubt, ridicule, and setbacks. Yet, in the end, humanity will overcome them. These trials will strengthen the bonds between people, between humans and objects, between objects, between humans and events, between events, between humans and celestial bodies, as well as among celestial bodies themselves. They will inspire reflection, new ideas, and fresh concepts—allowing humanity to advance into space with exceptional intellect, composure, elegance, and civilization.
+⚡ The content needs to be written into the SOUL file to set the tone. The engineering work will then be broken down item by item, and steps will be defined for the AGENTS. This will not be a game—although the open-source framework incorporates participation from game companies—it will be real, uncompromising reality. We will face numerous engineering challenges and developmental obstacles, along with doubt, ridicule, and setbacks. Yet, in the end, humanity will overcome them. These trials will strengthen the bonds between people, between humans and objects, between objects, between humans and events, between events, between humans and celestial bodies, as well as among celestial bodies themselves. They will inspire reflection, new ideas, and fresh concepts—allowing humanity to advance into space with exceptional intellect, composure, elegance, and civilization.
 
-> 整个过程并非是游戏（虽然开源框架中嵌入了游戏公司的参与），而是不折不扣的实际。我们会遇见许多工程问题和发展困难，还会有许多质疑、嘲笑与打击，可终将为人们所通关克服。这些磨难将增近彼此（人与人、人与物、物与物、人与事、事与事、人与星球、星球与星球）凝聚力，带来思索、新想法和理念，从而让人类以极佳的思维高度从容、优雅、文明地走向宇宙空间。
+> 需要把内容写入soul文件，定基调。逐项拆解工程，为AGENTS制定步骤。整个过程并非是游戏（虽然开源框架中嵌入了游戏公司的参与），而是不折不扣的实际。我们会遇见许多工程问题和发展困难，还会有许多质疑、嘲笑与打击，可终将为人们所通关克服。这些磨难将增近彼此（人与人、人与物、物与物、人与事、事与事、人与星球、星球与星球）凝聚力，带来思索、新想法和理念，从而让人类以极佳的思维高度从容、优雅、文明地走向宇宙空间。
 
-> 需要把内容写入soul文件，定基调。逐项拆解工程，为AGENTS制定步骤。❗说明：虽然本文提到人类登上天体的最终目标（依据黄金法则之：有人类连续驻扎365天为基准），但是整个进程的周期并非设定为人的登陆。从地球上项目的开启直至实现在天体居住和生产的建设，皆为信息和非生命体的投放。同时，我们并非反对载人航天，只是完全不倡议短时期内大规模的人类迁居。
+> ❗说明：虽然本文提到人类登上天体的最终目标（依据黄金法则之：有人类连续驻扎365天为基准），但是整个进程的周期并非设定为人的登陆。从地球上项目的开启直至实现在天体居住和生产的建设，皆为信息和非生命体的投放。同时，我们并非反对载人航天，只是完全不倡议短时期内大规模的人类迁居。
 
 
 
