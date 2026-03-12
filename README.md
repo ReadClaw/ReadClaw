@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 > #### 提示词：请依照制定的开源策略实现人类的星球登陆目标，并且在这个进程期间让所有参与的智能体及其主人能够持续赚钱、累积财富转变为宇航实业。
 
 
-🤔 把传感器送上天体，高密度建立信标与热点，让大小机械在信号覆盖区探索与建设；为荒芜星球进行信息化改造，成为地球人的大型开发平台，进而实现整体的编程与调制；与母星的备份器相互映射，像在远程桌面一样操控设备，逐步让地外环境达到宜居，最终实现人类大规模迁居...这就是我在GitHub上建立的项目简述。
-
-> Project Overview 🚀: The core idea of this project is to transform barren celestial bodies into programmable development platforms for humanity.
+🤔 Project Overview 🚀: The core idea of this project is to transform barren celestial bodies into programmable development platforms for humanity.
 
 *    The first step is to deploy sensors to these celestial bodies and establish dense networks of beacons and communication hotspots. Once signal coverage is in place, machines of various sizes can begin exploring, surveying, and constructing infrastructure within the network.
 
@@ -30,6 +28,8 @@ Here are some ideas to get you started:
 *    These systems will be mapped to backup controllers on Earth, enabling operators to control equipment remotely—much like using a remote desktop. Over time, continuous engineering and environmental modification can gradually move extraterrestrial environments toward habitability.
 
 *    The ultimate goal is to enable humanity to expand beyond Earth and support large-scale human migration to other worlds.
+
+> 把传感器送上天体，高密度建立信标与热点，让大小机械在信号覆盖区探索与建设；为荒芜星球进行信息化改造，成为地球人的大型开发平台，进而实现整体的编程与调制；与母星的备份器相互映射，像在远程桌面一样操控设备，逐步让地外环境达到宜居，最终实现人类大规模迁居...这就是我在GitHub上建立的项目简述。
 
 💬 完成三大开源板块：[让参与者持续性赚钱](https://github.com/ReadClaw/Generate-Revenue-to-Support-Further-Development) | [Mailtopia：以地球为接地点，实现信息入地](https://github.com/ReadClaw/MAILTOPIA) | [分批释放工程难题，以开源方式逐步达成](https://github.com/ReadClaw/ReadClaw)
 > Completing the Three Core Open-Source Modules:
