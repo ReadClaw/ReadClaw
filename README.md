@@ -49,7 +49,9 @@ Project Overview 🚀: The core idea of this project is to transform barren cele
 
 
 
-不是因为它封容易反而是因为它很难
+不是因为它很容易反而是因为它很难
+最早时候我是强烈反对载人航天的，因为它涉及到生命。但是后来我转变了思考，探索者、先锋，反对的是现阶段大规模迁居，认为它不可实现
+人类的灵活性与现场解决能力
 
 
 
