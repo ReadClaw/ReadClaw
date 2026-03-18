@@ -212,7 +212,7 @@ Project Overview 🚀: The core idea of this project is to transform barren cele
 因此设想到项目该有怎样的状况。
 于是，
 
-
+还是AlphaGo时代的
 
 总之，这一揽子计划形成了
 
