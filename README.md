@@ -218,7 +218,7 @@ Project Overview 🚀: The core idea of this project is to transform barren cele
 
 
 
-![ok](https://github.com/ReadClaw/ReadClaw/blob/main/glod.jpg))
+![ok](https://github.com/ReadClaw/ReadClaw/blob/main/gold.jpg)
 
 
 
