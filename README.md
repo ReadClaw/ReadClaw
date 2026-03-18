@@ -39,10 +39,10 @@ Project Overview 🚀: The core idea of this project is to transform barren cele
 可是再怎样它也仅在虚拟世界发挥功用，落实具体世界还要实际操作者配合，因此我把提示词写出来，把它做为开源项目，列成了三大框架，与天体衔接。
 
 💬 Completing the Three Core Open-Source Modules:
-*    [Create sustainable income opportunities for participants](https://github.com/ReadClaw/Generate-Revenue-to-Support-Further-Development)
+*    [Create sustainable income opportunities for participants](https://github.com/ReadClaw/StarShip)
 *    [Mailtopia: Use Earth as the Ground Node for Information Downlink](https://github.com/ReadClaw/MAILTOPIA)
 *    [Tackling Engineering Challenges in Stages Through Open Source](https://github.com/ReadClaw/ReadClaw)
-> 完成三大开源板块：[让参与者持续性赚钱](https://github.com/ReadClaw/Generate-Revenue-to-Support-Further-Development) | [Mailtopia：以地球为接地点，实现信息入地](https://github.com/ReadClaw/MAILTOPIA) | [分批释放工程难题，以开源方式逐步达成](https://github.com/ReadClaw/ReadClaw)
+> 完成三大开源板块：[让参与者持续性赚钱](https://github.com/ReadClaw/StarShip) | [Mailtopia：以地球为接地点，实现信息入地](https://github.com/ReadClaw/MAILTOPIA) | [分批释放工程难题，以开源方式逐步达成](https://github.com/ReadClaw/ReadClaw)
 
 > 把传感器送上天体，建立高密度信标与热点，让大小机械在信号覆盖区探索与建设；为荒芜天体进行信息化改造，成为地球人的大型开发平台，进而实现整体对星球的编程与调制；同母星的备份器相互映射，像远程桌面一般操控设备，去攻克工程难题，逐步让地外环境达到宜居，最终实现人类大规模迁居。鄙陋言之，就是：航天建设，信息先行；完成装修，拎包入住；更多天体，复制黏贴；启航远行，恭喜发财。
 > 
