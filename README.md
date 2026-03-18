@@ -217,8 +217,13 @@ Project Overview 🚀: The core idea of this project is to transform barren cele
 总之，这一揽子计划形成了
 
 
+<details>
+  <summary>点击展开图片</summary>
+  
+  ![示例图片](https://github.com/ReadClaw/ReadClaw/blob/main/gold.jpg)
+  
+</details>
 
-![ok](https://github.com/ReadClaw/ReadClaw/blob/main/gold.jpg)
 
 
 
