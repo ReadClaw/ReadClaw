@@ -218,9 +218,9 @@ Project Overview 🚀: The core idea of this project is to transform barren cele
 
 
 <details>
-  <summary>点击展开图片</summary>
+  <summary>黄金共识图解</summary>
   
-  ![示例图片](https://github.com/ReadClaw/ReadClaw/blob/main/gold.jpg)
+  ![黄金共识图解](https://github.com/ReadClaw/ReadClaw/blob/main/gold.jpg)
   
 </details>
 
